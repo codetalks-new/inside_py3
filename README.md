@@ -13,6 +13,13 @@
 
 2. 属性描述符 `__get__`, `__set__`
 
+3. 属性描述符实践
+
+
+### 装饰器 Decorator
+1 期基础，N 期深入。
+1. 基础
+
 ## 
 [GitHub 仓库地址](https://github.com/banxi1988/inside_py3)
 
